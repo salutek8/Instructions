@@ -1,9 +1,9 @@
 Instructions
 =======
 
-https://github.com/salutek8
+To save your project/work on cloud/Githun go to this website https://github.com/salutek8
 
-1. sign in
+1. sign in =>
  user name: salutek8
  password: selamawit8
 2. Select the folder you want work
