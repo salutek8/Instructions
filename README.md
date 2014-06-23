@@ -1,7 +1,16 @@
-account
+Instructions
 =======
-1. user name salutek8
-2. password selamawit8
-3. https://github.com/salutek8
+
+https://github.com/salutek8
+
+1. sign in
+ user name: salutek8
+ password: selamawit8
+2. Select the folder you want work
+3. click on README.md
+4. click on edit
+5. write your message on the black screen
+6. To save your work click on commit changes
+ 
 
 
